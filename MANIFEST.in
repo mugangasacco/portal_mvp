@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include portal_mvp *.css
+recursive-include portal_mvp *.csv
+recursive-include portal_mvp *.html
+recursive-include portal_mvp *.ico
+recursive-include portal_mvp *.js
+recursive-include portal_mvp *.json
+recursive-include portal_mvp *.md
+recursive-include portal_mvp *.png
+recursive-include portal_mvp *.py
+recursive-include portal_mvp *.svg
+recursive-include portal_mvp *.txt
+recursive-exclude portal_mvp *.pyc
