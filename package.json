@@ -5,8 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "cd portal && npm run dev",
-		"build": "cd portal && npm run build"
+		"dev": "cd portal && yarn dev",
+		"build": "cd portal && yarn build"
 	},
 	"keywords": [],
 	"author": "",
