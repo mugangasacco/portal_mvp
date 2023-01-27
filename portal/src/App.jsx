@@ -11,7 +11,10 @@ function App() {
 								This Website is under maintenance, <br></br>We
 								will back soon
 							</p>
-							<img className="w-80" src="/msacco_logo.png" />
+							<img
+								className="w-80"
+								src="/assets/portal_mvp/portal/msacco_logo.png"
+							/>
 						</div>
 					</div>
 					<div className="w-full h-full flex items-center justify-center">
