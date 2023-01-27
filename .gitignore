@@ -4,4 +4,4 @@
 *.swp
 tags
 node_modules
-public/portal/assets/
+portal_mvp/public/portal/
